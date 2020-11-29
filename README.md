@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🔭 I’m currently working on [Pinnacles, inc.](https://pinnacles.tech/), and developing a [tebiki](https://tebiki.jp/).  
+Now hiring full time member!
+
 <!--
 **shibukk/shibukk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
